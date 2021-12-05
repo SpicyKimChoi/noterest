@@ -1,8 +1,11 @@
 # devlog
 
+## client 
+client repo: https://github.com/SpicyKimChoi/devlog-client
+
+## server
 server repo: https://github.com/SpicyKimChoi/devlog-server
 
-client repo: https://github.com/SpicyKimChoi/devlog-client
 
 ## 컨벤션
 
