@@ -5,7 +5,10 @@ client repo: https://github.com/SpicyKimChoi/devlog-client
 
 ## server
 server repo: https://github.com/SpicyKimChoi/devlog-server
-
+인프라 관리 repo: https://github.com/SpicyKimChoi/env-sandbox
+argo cd 모듈 repo: https://github.com/SpicyKimChoi/module-argo-cd
+kubernetes 모듈 repo: https://github.com/SpicyKimChoi/module-aws-kubernetes
+network 모듈 repo: https://github.com/SpicyKimChoi/module-aws-network
 
 ## 컨벤션
 
